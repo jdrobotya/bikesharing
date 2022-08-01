@@ -26,7 +26,7 @@ The last story reflects Trips by Gender and week days and also shows if the user
 
 ![Screen Shot 2022-07-31 at 9 52 12 PM](https://user-images.githubusercontent.com/103322251/182059979-ff26e2a2-be19-489f-b4e2-2b791cd552de.png)
 
-## Analysys: 
+## Summary: 
 
 Based on the information, that I was able to visualize in Tableau, I'd say that investors need to take in  consideration the following: 
 
